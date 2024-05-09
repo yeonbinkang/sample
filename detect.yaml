@@ -1,6 +1,6 @@
 path: ../detect/
 train: images/train
-val: images/val
+val: images/validation
 test: 
 
 names:
